@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": false,
+  "force": true,
   "version_name": "2.1.0",
   "version_code": 2,
   "title": "New Update Available! 🚀",
